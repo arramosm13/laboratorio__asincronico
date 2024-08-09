@@ -31,6 +31,6 @@ int main(){
 	}
 	cout << "El empleado con menor sueldo es: " << menor << endl;
     cout << "El empleado con mayor sueldo es: " << mayor << endl;
- 
+ //xddd
 return 0;
 }
